@@ -1,4 +1,4 @@
-# FLowers
+# Flowers
 
 - HTML,
 - CSS,
